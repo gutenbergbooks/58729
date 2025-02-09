@@ -1,31 +1,7 @@
-The Project Gutenberg EBook of The Southern Literary Messenger, Vol. I.,
-No. 12, August, 1835, by Various
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Southern Literary Messenger, Vol. I., No. 12, August, 1835
-
-Author: Various
-
-Editor: Edward Vernon Sparhawk
-
-Release Date: January 19, 2019 [EBook #58729]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK SOUTHERN LITERARY MESSENGER, AUGUST 1835 ***
+*** START OF THE PROJECT GUTENBERG EBOOK 58729 ***
 
 
 
-
-Produced by Ron Swanson
 
 
 
@@ -36,7 +12,7 @@ THE SOUTHERN LITERARY MESSENGER:
 DEVOTED TO EVERY DEPARTMENT OF LITERATURE AND THE FINE ARTS.
 
 
-Au gré de nos desirs bien plus qu'au gré des vents.
+Au grÃ© de nos desirs bien plus qu'au grÃ© des vents.
                                       _Crebillon's Electre_.
 
 As _we_ will, and not as the winds will.
@@ -357,7 +333,7 @@ not to suffer any of the belligerents on the other side, to bring
 British vessels as prizes into its ports. After the declaration of war
 by the United States against Great Britain, no American armed vessel
 had ventured to pass the Streights of Gibraltar, until December 1814,
-when the privateer brig Abællino, from Boston, commanded by W. F.
+when the privateer brig AbÃ¦llino, from Boston, commanded by W. F.
 Wyer, entered the Mediterranean and took a number of prizes, some of
 which were sent into Tunis and Tripoli.
 
@@ -406,7 +382,7 @@ who had not had so much experience with regard to the customs and
 institutions of the Franks as had been acquired by Hamouda, could not
 comprehend this; he offered to intercede for the restoration of the
 vessels, and plainly told the Consul that if the captain of the
-Abællino chose to cut out two British merchant vessels which were then
+AbÃ¦llino chose to cut out two British merchant vessels which were then
 lying in the harbor, no attempt would be made to obstruct him.
 
 Things were in this state on the 20th of July, when the American
@@ -424,11 +400,11 @@ in resisting the demand.
 
 As soon as this business was concluded, Decatur sailed with his whole
 force for Tripoli, where he arrived on the 10th of August. Into this
-port the Abællino had carried two prizes; shortly after their
+port the AbÃ¦llino had carried two prizes; shortly after their
 entrance, the British armed brig Paulina with another vessel of war
 entered the harbor, and retook the prizes, the commander of the
 Paulina at the same time declaring his intention to pursue the
-Abællino if she should leave the place. This was done immediately
+AbÃ¦llino if she should leave the place. This was done immediately
 under the castle walls, without any attempt at interference on the
 part of the Pasha. The American Consul, Mr. Jones, instantly requested
 Yusuf to cause the vessels to be restored, intimating that in case
@@ -436,9 +412,9 @@ they were not, the Pasha would be compelled to pay for them himself;
 the Consul also demanded, that measures should be taken, in compliance
 with the tenth article of the treaty, to retain the British ships of
 war in the harbor, twenty-four hours after the sailing of the
-Abællino, which was about to put to sea. To both these demands Yusuf
+AbÃ¦llino, which was about to put to sea. To both these demands Yusuf
 refused to yield assent; the prizes were in consequence sent to Malta,
-and the Abællino was detained in Tripoli. The American Consul then
+and the AbÃ¦llino was detained in Tripoli. The American Consul then
 pulled down his flag, and sent information of the circumstances to the
 other Mediterranean Consulates, in order that it might be communicated
 to the commander of the squadron immediately on its arrival.
@@ -1274,7 +1250,7 @@ manner, let a child fall in, which was instantly devoured! Among the
 gentlest and most curious of the quadrupeds, is the giraff, or camel
 leopard, which was brought from Africa about two years ago, and threw
 all Paris into commotion. Thousands visited him daily, and belts,
-reticules, gloves, kerchiefs, and even cakes and blanc mangés were
+reticules, gloves, kerchiefs, and even cakes and blanc mangÃ©s were
 decorated with his image. It is said that he possesses both sagacity
 and sensibility, to prove which the following anecdote is related of
 him. As his keepers were bringing him to Paris, they were joined by a
@@ -1422,7 +1398,7 @@ LETTER NINETEENTH.
 Visit to Versailles--The Little Trianon--The Grand Trianon--Church of
 St. Louis, and Monument of the Duke de Berri--Mendon--Chalk
 Quarries--Tortoni's--Wandering Musicians--An Evening at Count
-Ségur's--Children's Fancy Ball.
+SÃ©gur's--Children's Fancy Ball.
 
 
 PARIS, ----.
@@ -1477,8 +1453,8 @@ the terrace in front of it the prospect is very fine. As we traversed
 the grounds, guided by an old soldier, we were quite diverted at the
 astonishment he expressed, on discovering from an observation of
 Leonora's that she and her family were Americans. "Mais comme vous
-êtes blondes!" cried he, "et j'ai toujours en tendu dire que les
-habitans d'Amerique étaient rouges ou noirs!"[1]
+Ãªtes blondes!" cried he, "et j'ai toujours en tendu dire que les
+habitans d'Amerique Ã©taient rouges ou noirs!"[1]
 
 [Footnote 1: But how fair you are! and I have always heard that the
 inhabitants of America are _red_ or _black_.]
@@ -1490,7 +1466,7 @@ Paris.
 
 After resting ourselves and drinking tea, we sallied forth again, and
 strolled on the Boulevard as far as Tortoni's, to eat ices. He is
-master of a grand caffé, and famous for his ices and déjeunés à la
+master of a grand caffÃ©, and famous for his ices and dÃ©jeunÃ©s Ã  la
 fourchette. His establishment is splendidly illuminated every night,
 and so thronged with customers, that it is often difficult to procure
 a seat. Some prefer regaling themselves before the door in their
@@ -1503,7 +1479,7 @@ the popular airs of the theatres and those of the first composers of
 the day, which are as familiar to the common people as they are to
 amateurs.
 
-We recently spent another delightful evening at Count Ségur's. We
+We recently spent another delightful evening at Count SÃ©gur's. We
 found him, as usual, surrounded by the learned and refined; and he met
 us with his accustomed smile of benevolence and bonhomie. There was a
 lively young relative of his present, and when most of his visiters
@@ -1515,7 +1491,7 @@ with her wishes. The play of l'Empereur is similar to that termed the
 While we were at the Count's, Mr. and Mrs. Danville attended a levee
 at the Hotel Marine, and the girls accompanied a young friend of
 Marcella's, (a Miss Y---- from Soissons) to a fancy ball given by the
-children of Madame Clément's seminary. Miss Y---- being a pupil, had
+children of Madame ClÃ©ment's seminary. Miss Y---- being a pupil, had
 the privilege of inviting two acquaintances, and chose Marcella and
 Leonora as her guests. They were highly entertained. All the scholars
 wore costumes, and several supported the characters they assumed with
@@ -1528,7 +1504,7 @@ bandeau. They danced until ten o'clock, and as none of the masculine
 gender were admitted, the elder Misses played the part of beaux. I
 should have liked to join in the frolic, I confess, though not upon
 condition of foregoing the pleasure we had at No. 13, Rue Duphot,
-Count Ségur's residence.
+Count SÃ©gur's residence.
 
 Papa has presented me a beautiful watch, and intends purchasing
 another for you. With tender regards to aunt M---- and Albert, I
@@ -1561,7 +1537,7 @@ abounds in every variety of the lower order of amusements, when
 suddenly a violent shower began to fall, and of course every body to
 scamper to some shelter. _We_ took refuge in the portico of an
 illuminated building, entitled in large transparent letters over the
-door, "Theàtre Mecanique," and finally determined to enter and witness
+door, "TheÃ tre Mecanique," and finally determined to enter and witness
 the acting within. We accordingly purchased tickets of the woman
 employed to sell them, and following her up a narrow flight of stairs,
 were ushered into a confined gallery, overlooking a dirty pit, the
@@ -2388,7 +2364,7 @@ transcendently lovely does the Thekla of Schiller's Wallenstein appear
 in the camp surrounded by soldiers encased in iron. I borrow from the
 graphic pen of M. B. Constant. "Sa voix si douce au travers le bruit
 des armes, sa form delicate au milieu des hommes tout couverts de fer,
-la pureté de son âme opposée a leurs calculs avides, son calm celeste
+la puretÃ© de son Ã¢me opposÃ©e a leurs calculs avides, son calm celeste
 qui contraste avec leurs agitations, remplissent le spectateur d'une
 emotion constante et melancholique, telle que ne la fait ressentir
 nulle tragedie ordinaire."
@@ -2517,7 +2493,7 @@ exemplification, the very interesting tale of the adventures of
 Eppopina, which passed before the eyes of Plutarch, as he was at that
 time living in the house of Vespasian. Sabinus, the husband of
 Eppopina, being vanquished by the troops of the Emperor Vespasian,
-concealed himself in a deep cavern between Franche Compté and
+concealed himself in a deep cavern between Franche ComptÃ© and
 Champagne. The unbounded affection of Eppopina and her untiring
 researches, soon enabled her to find the hiding place of him who
 commanded all the affections of her heart. She determined to be the
@@ -2531,20 +2507,20 @@ sun, and in the enjoyment of power."
 
 But one of the most celebrated examples on record, of the ardent
 desire of woman to console and encourage her husband in the dismal
-hour of despair, is furnished by Arria, the wife of Cecina Pætus. This
-Pætus, after the defeat by the troops of the Emperor Claudius of the
+hour of despair, is furnished by Arria, the wife of Cecina PÃ¦tus. This
+PÃ¦tus, after the defeat by the troops of the Emperor Claudius of the
 army of Scribonianus, whose party he had espoused, was condemned to
 death by the same emperor. It was the custom under the emperors, to
 leave condemned individuals to terminate their existence themselves,
-provided they could have the resolution to do it. Pætus wavered and
+provided they could have the resolution to do it. PÃ¦tus wavered and
 hesitated. The dreadful struggle which it cost him, made a deeper
 impression upon the devoted and tender heart of Arria than even the
 sentence of death had inflicted. After caressing and encouraging him
 by the most tender offices to nerve himself to the act, she took the
-poniard which he wore by his side, and exclaiming, "Pætus, do thus!"
+poniard which he wore by his side, and exclaiming, "PÃ¦tus, do thus!"
 she plunged it into her own bosom; then drawing it from the reeking
 wound, she presented the dagger to her husband "with this noble,
-generous, and immortal saying:" _Pæte non dolet!_ "Pætus, it is not
+generous, and immortal saying:" _PÃ¦te non dolet!_ "PÃ¦tus, it is not
 painful!"[2]
 
 [Footnote 2: This death has afforded Martial the subject of one of his
@@ -2552,9 +2528,9 @@ most elegant epigrams, which has been thus rendered:
 
   "When to her husband Arria gave the sword,
    Which from her chaste, her bleeding breast she drew,
-   She said, 'My Pætus, this I do not feel;
+   She said, 'My PÃ¦tus, this I do not feel;
    But, oh! the wound that must be made by you!'
-   She could no more--but on her Pætus still,
+   She could no more--but on her PÃ¦tus still,
    She fix'd her feeble, her expiring eyes;
    And when she saw him raise the pointed steel,
    She sunk--and seem'd to say, 'Now Arria dies!'"]
@@ -2732,7 +2708,7 @@ in every particular. Even in intellectual power she was considered as
 superior; and in perusing the voluminous proofs which were so
 industriously, and sometimes so ingeniously brought forward to prove
 it, we find ourselves as bewildered as the _femme de chambre_ of
-Molière, under the learned remarks of the doctor upon the death of the
+MoliÃ¨re, under the learned remarks of the doctor upon the death of the
 coachman. The poor woman at last exclaims, "Le Medecin peut dire ce
 qu'il veut, mais le cocher est mort." Whatever may have been written
 or said in praise of the intellectual powers of woman during the very
@@ -2984,7 +2960,7 @@ distinctly marked and widely different. And it is not to be wondered
 at that these characters, so totally different, belonging to persons
 moving in different spheres, should require different kinds and
 degrees of intellectual powers. Woman is domestic in her habits, she
-requires therefore a knowledge of all those minutiæ--all those details
+requires therefore a knowledge of all those minutiÃ¦--all those details
 which can best befit her for her domestic occupations. She is more
 concerned with the individual than with the multitude. She feels more
 deeply interested in a mere family, than in a whole nation. Hence she
@@ -3030,7 +3006,7 @@ a division of the human race, very unequal as to numbers, into _men of
 general principles_ or _philosophers_, and _men of detail_. The former
 possessing minds inured to habits of abstraction and generalization,
 the latter more conversant with mere individuals and individual
-character, with the details and minutiæ of common life, and therefore
+character, with the details and minutiÃ¦ of common life, and therefore
 better suited to the ordinary routine of every day duties in the
 common transactions of the world. But if I may borrow the sentiment of
 Mr. Burke, when the path is broken up, the high waters out, and the
@@ -3044,7 +3020,7 @@ requisitions of that extended sphere in which he moves, a greater
 share of this power of abstraction and generalization than is commonly
 found developed in the female mind. The confined sphere in which woman
 moves, requires, as I have already observed, close attention to all
-the details and minutiæ of the little events daily and hourly
+the details and minutiÃ¦ of the little events daily and hourly
 transpiring around her. Instead of studying the general traits of
 character which belong alike to the whole human family, she studies
 most deeply the individual characters of those who compose her
@@ -3060,7 +3036,7 @@ he must make laws not only for the few individuals with whom he has
 been raised, but for the whole nation. In doing this he is obliged to
 discard the mere individual from his mind, and look to the population
 in the aggregate. He must abstract himself from the consideration of
-the minutiæ, the little details and peculiar circumstances which
+the minutiÃ¦, the little details and peculiar circumstances which
 operate _exclusively_ on his own little narrow neighborhood, and
 attend to those general circumstances which affect alike the condition
 of the whole body politic. His intellectual vision should not be too
@@ -3356,7 +3332,7 @@ inculcate upon this point. He shows you that the contests of
 patricians and plebeians, the forcible establishment of the power of
 the tribunes in ancient Rome, and the division of a modern parliament
 into the lords and commons, or the fearful disputes between the _tiers
-état_ and the nobles and clergy in France, all prove the same great
+Ã©tat_ and the nobles and clergy in France, all prove the same great
 truth and teach the same great lesson, _that every great interest to
 be safe, must have the means of defending itself_. Such a mind as this
 when it fails, fails (if I may use the language of the logician) from
@@ -3510,7 +3486,7 @@ burlesque of the errors and weaknesses of female rule. It represented
 her Majesty "naked, meager, withered and wrinkled, with every
 aggravated circumstance of deformity which could disgrace a female
 figure, seated in a regal chair; a crown on her head, surrounded with
-the letters M. R. A. accompanied with Maria Regina Angliæ in smaller
+the letters M. R. A. accompanied with Maria Regina AngliÃ¦ in smaller
 letters! A number of Spaniards were sucking her to the skin and bone,
 and a specification was added of the money, rings, jewels, and other
 presents with which she had secretly gratified her husband Philip."
@@ -3754,7 +3730,7 @@ inferences drawn from that nice discernment and tact so characteristic
 of the sex amid the little incidents of life, or from their capability
 of reading the varying features of the human countenance, or marking
 more distinctly the altered shades of manner, even when individuals
-are attempting to wear the mask of deception and hypocrisy. Cæsar's
+are attempting to wear the mask of deception and hypocrisy. CÃ¦sar's
 wife, we are told, implored him not to go to the Senate Chamber of
 Rome on the fatal day of the Ides of March; and although she could
 give no better reasons for her solicitude than dreams, visions, and
@@ -3768,7 +3744,7 @@ majesty and force of his own mind, overturned the liberties of his
 country, and grasped in his single hand the sceptre of the world, but,
 in all probability, they were unable to wear that countenance and
 assume those manners which would impose upon the more minute
-discernment of Cæsar's wife, amid the troubles, solicitudes, and
+discernment of CÃ¦sar's wife, amid the troubles, solicitudes, and
 suspicions, incident to a season of revolution. Pontius Pilate would
 have released the Saviour of the world, and quieted a troubled
 conscience, if he had given heed to the solemn warning of his wife, to
@@ -3904,7 +3880,7 @@ no connecting principle like cause and effect, premises and
 conclusions, &c.--but this thing is remembered because it is like
 that. This fact is now related because it was spoken at the same time
 with that, or in the same place. Such an individual as this has, as
-Diderot expresses it, "une tête meublée d'un grand nombre de choses
+Diderot expresses it, "une tÃªte meublÃ©e d'un grand nombre de choses
 disparates," which he says resembles a library with mismatched books,
 or a German compilation garnished, without reason and without taste,
 with Hebrew, Arabic, Greek, and Latin.
@@ -4028,7 +4004,7 @@ analogies in effects and in emotions which furnishes the mind with
 perhaps the most interesting materials for social converse. Such a
 mind is what the world calls _brilliant_. We soon tire of it, however,
 if it does not occasionally relax, and give us a few of those details
-and minutiæ, which belong to the mind of the first order in our
+and minutiÃ¦, which belong to the mind of the first order in our
 division. As was said of the poetry of Thomas Moore, we do not like
 always to feed upon the _whip syllabubs_ we soon become hungry for
 _bread and meat_.
@@ -4112,11 +4088,11 @@ that portion which had so startling an effect on the audience as to
 make them spring simultaneously from their seats, and you will see
 that it was just at that moment that the eloquent divine dropped all
 his abstractions and generalities and applied his subject to those
-very persons who were listening to him. "Je m'arrête _à vous_, mes
-freres, qui êtes _ici_ assemblées. Je ne parle plus du reste des
+very persons who were listening to him. "Je m'arrÃªte _Ã  vous_, mes
+freres, qui Ãªtes _ici_ assemblÃ©es. Je ne parle plus du reste des
 hommes," &c. And again, "Je suppose que c'est _ici_ votre derniere
 heure, et la fin de l'univers; que les cieux vont s'ouvrir sur vos
-têtes--Jesus Christe paraitre dans sa gloire au milieu de _ce
+tÃªtes--Jesus Christe paraitre dans sa gloire au milieu de _ce
 temple_," &c.
 
 It is useless to say that men much oftener have minds of the third
@@ -4134,7 +4110,7 @@ the character of the occupations in which she is engaged, is more
 conversant with objects than with their _necessary_ connections and
 relations. She is not obliged to arrange so many concatenated plans;
 her mind is more alive to the perception of the objects around her,
-and less to the _causæ rerum_. Her feelings and sympathies are most
+and less to the _causÃ¦ rerum_. Her feelings and sympathies are most
 exquisite, but she attends less to their relations and dependences.
 She is in fine a creature of emotion rather than of philosophy.
 
@@ -4465,7 +4441,7 @@ is apt to know, too, the little Goshen of our hearts, and to pay all
 due attention to it. And she is sure to tell, as if by accident,
 precisely the _sweetest_ things in the world to _us_. She writes with
 ease, variety, and interest--because she pursues the course of the
-celebrated Madame de Sévigné, (who has never perhaps had an equal in
+celebrated Madame de SÃ©vignÃ©, (who has never perhaps had an equal in
 our sex for epistolary composition.) "Il faut un peu entre bons amis,"
 says Madame de S. "laisser trotter les plumes comme elles veulent, la
 mienne a toujours la bride sur le cou."
@@ -4695,16 +4671,16 @@ fables."--_Voltaire_.
 
 
 That Pierre Bon-Bon was a Restaurateur of uncommon qualifications, no
-man who, during the reign of ----, frequented the little Câfé in the
+man who, during the reign of ----, frequented the little CÃ¢fÃ© in the
 Cul-de-sac Le Febvre at Rouen, will, I imagine, feel himself at
 liberty to dispute. That Pierre Bon-Bon was, in an equal degree,
 skilled in the philosophy of that period is, I presume, still more
-especially undeniable. His _Patés à la fois_ were beyond doubt
+especially undeniable. His _PatÃ©s Ã  la fois_ were beyond doubt
 immaculate--but what pen can do justice to his essays _sur la
 Nature_--his thoughts _sur l'Ame_--his observations _sur l'Esprit_? If
 his _omelettes_--if his _fricandeaux_ were inestimable, what
 _literateur_ of that day would not have given twice as much for an
-'_Idée de Bon-Bon_' as for all the trash of all the '_Idées_' of all
+'_IdÃ©e de Bon-Bon_' as for all the trash of all the '_IdÃ©es_' of all
 the rest of the _savants_? Bon-Bon had ransacked libraries which no
 other man had ransacked--had read more than any other would have
 entertained a notion of reading--had understood more than any other
@@ -4720,7 +4696,7 @@ Bon-Bon that Kant himself is mainly indebted for his metaphysics. The
 former was not indeed a Platonist, nor strictly speaking an
 Aristotelian--nor did he, like the modern Leibnitz, waste those
 precious hours which might be employed in the invention of a
-_fricassée_, or, _facili gradu_, the analysis of a sensation, in
+_fricassÃ©e_, or, _facili gradu_, the analysis of a sensation, in
 frivolous attempts at reconciling the obstinate oils and waters of
 ethical discussion. Not at all. Bon-Bon was Ionic. Bon-Bon was equally
 Italic. He reasoned _a priori_. He reasoned also _a posteriori_. His
@@ -4779,7 +4755,7 @@ _Omelettes_. With him Sauterne was to Medoc what Catullus was to
 Homer. He would sport with a syllogism in sipping St. Peray, but
 unravel an argument over Clos de Vougeot, and upset a theory in a
 torrent of Chambertin. In his seclusions the Vin de Bourgogne had its
-allotted hour, and there were appropriate moments for the Côtes du
+allotted hour, and there were appropriate moments for the CÃ´tes du
 Rhone. Well had it been if the same quick sense of propriety had
 attended him in the peddling propensity to which I have formerly
 alluded--but this was by no means the case. Indeed, to say the truth,
@@ -4788,7 +4764,7 @@ to assume a character of strange intensity and mysticism, and, however
 singular it may seem, appeared deeply tinctured with the grotesque
 _diablerie_ of his favorite German studies.
 
-To enter the little _Café_ in the _Cul de Sac_ Le Febvre was, at the
+To enter the little _CafÃ©_ in the _Cul de Sac_ Le Febvre was, at the
 period of our tale, to enter the sanctum of a man of genius. Bon-Bon
 was a man of genius. There was not a _sous-cuisinier_ in Rouen, who
 could not have told you that Bon-Bon was a man of genius. His very cat
@@ -4834,23 +4810,23 @@ words of Benevenuta, the Improvisatrice of Florence, "that it was
 difficult to say whether Pierre Bon-Bon was indeed a bird of Paradise,
 or the rather a very Paradise of perfection."
 
-I have said that "to enter the _Café_ in the _Cul-de-Sac_ Le Febvre
+I have said that "to enter the _CafÃ©_ in the _Cul-de-Sac_ Le Febvre
 was to enter the sanctum of a man of genius"--but then it was only the
 man of genius who could duly estimate the merits of the sanctum. A
 sign consisting of a vast folio swung before the entrance. On one side
-of the volume was painted a bottle--on the reverse a _Paté_. On the
-back were visible in large letters the words _Æuvres de Bon-Bon_. Thus
+of the volume was painted a bottle--on the reverse a _PatÃ©_. On the
+back were visible in large letters the words _Ã†uvres de Bon-Bon_. Thus
 was delicately shadowed forth the two-fold occupation of the
 proprietor.
 
 Upon stepping over the threshold the whole interior of the building
 presented itself to view. A long, low-pitched room of antique
-construction was indeed all the accommodation afforded by the _Café_
+construction was indeed all the accommodation afforded by the _CafÃ©_
 in the _Cul-de-Sac_ Le Febvre. In a corner of the apartment stood the
 bed of the metaphysician. An array of curtains, together with a canopy
-_à la Gréque_ gave it an air at once classic and comfortable. In the
+_Ã  la GrÃ©que_ gave it an air at once classic and comfortable. In the
 corner diagonally opposite appeared, in direct and friendly communion,
-the properties of the kitchen and the _bibliothéque_. A dish of
+the properties of the kitchen and the _bibliothÃ©que_. A dish of
 polemics stood peacefully upon the dresser. Here lay an oven-full of
 the latest ethics--there a kettle of duodecimo _melanges_. Volumes of
 German morality were hand and glove with the gridiron--a toasting fork
@@ -4858,12 +4834,12 @@ might be discovered by the side of Eusebius--Plato reclined at his
 ease in the frying pan--and cotemporary manuscripts were filed away
 upon the spit.
 
-In other respects the _Café_ de Bon-Bon might be said to differ little
-from the _Cafés_ of the period. A gigantic fire-place yawned opposite
+In other respects the _CafÃ©_ de Bon-Bon might be said to differ little
+from the _CafÃ©s_ of the period. A gigantic fire-place yawned opposite
 the door. On the right of the fire-place an open cupboard displayed a
 formidable array of labelled bottles. There Mousseux, Chambertin, St.
 George, Richbourg, Bordeaux, Margaux, Haubrion, Leonville, Medoc,
-Sauterne, Bârac, Preignac, Grave, Lafitte, and St. Peray contended
+Sauterne, BÃ¢rac, Preignac, Grave, Lafitte, and St. Peray contended
 with many other names of lesser celebrity for the honor of being
 quaffed. From the ceiling, suspended by a chain of very long slender
 links, swung a fantastic iron lamp, throwing a hazy light over the
@@ -4879,10 +4855,10 @@ fire of blazing faggots.
 
 It was one of those terrific nights which are only met with once or
 twice during a century. The snow drifted down bodily in enormous
-masses, and the _Café_ de Bon-Bon tottered to its very centre, with
+masses, and the _CafÃ©_ de Bon-Bon tottered to its very centre, with
 the floods of wind that, rushing through the crannies in the wall, and
 pouring impetuously down the chimney, shook awfully the curtains of
-the philosopher's bed, and disorganized the economy of his Paté-pans
+the philosopher's bed, and disorganized the economy of his PatÃ©-pans
 and papers. The huge folio sign that swung without, exposed to the
 fury of the tempest, creaked ominously, and gave out a moaning sound
 from its stanchions of solid oak.
@@ -4890,8 +4866,8 @@ from its stanchions of solid oak.
 I have said that it was in no very placid temper the metaphysician
 drew up his chair to its customary station by the hearth. Many
 circumstances of a perplexing nature had occurred during the day, to
-disturb the serenity of his meditations. In attempting _Des Æufs à la
-Princesse_ he had unfortunately perpetrated an _Omelette à la
+disturb the serenity of his meditations. In attempting _Des Ã†ufs Ã  la
+Princesse_ he had unfortunately perpetrated an _Omelette Ã  la
 Reine_--the discovery of a principle in Ethics had been frustrated by
 the overturning of a stew--and last, not least, he had been thwarted
 in one of those admirable bargains which he at all times took such
@@ -5025,7 +5001,7 @@ of the cat. It must be confessed, however, that he felt a little
 astonishment to see the white letters which formed the words "_Rituel
 Catholique_" on the book in his guest's pocket momentarily changing
 both their color and their import, and in a few seconds in place of
-the original title, the words _Regitre des Condamnés_ blaze forth in
+the original title, the words _Regitre des CondamnÃ©s_ blaze forth in
 characters of red. This startling circumstance, when Bon-Bon replied
 to his visiter's remark, imparted to his manner an air of
 embarrassment which might not probably have otherwise been observable.
@@ -5132,7 +5108,7 @@ Monsieur Bon-Bon--at that time _only_ I was in Rome, and I have no
 earthly acquaintance, consequently, with any of its philosophy."[1]
 
 [Footnote 1: Ils ecrivalent sur la Philosophie (_Cicero_, _Lucretius_,
-_Seneca_) mais c'etait la Philosophie Grécque.--_Condorcet_.]
+_Seneca_) mais c'etait la Philosophie GrÃ©cque.--_Condorcet_.]
 
 "What do you think of Epicurus?--what do you think
 of--hiccup!--Epicurus?"
@@ -5157,7 +5133,7 @@ Bon-Bon, having beaten his majesty at an argument, thought it his duty
 to conclude a second bottle of Chambertin.
 
 "As I was saying"--resumed the visiter--"as I was observing a little
-while ago, there are some very _outré_ notions in that book of yours,
+while ago, there are some very _outrÃ©_ notions in that book of yours,
 Monsieur Bon-Bon. What, for instance, do you mean by all that humbug
 about the soul? Pray, sir, what is the soul?"
 
@@ -5303,12 +5279,12 @@ shadow called my soul." (Signed) A----[2] (Here his majesty repeated a
 name which I do not feel myself justifiable in indicating more
 unequivocally.)
 
-[Footnote 2: Quære--Arouet?--_Editor_.]
+[Footnote 2: QuÃ¦re--Arouet?--_Editor_.]
 
 "A clever fellow that A----"--resumed he; "but like you, Monsieur
 Bon-Bon, he was mistaken about the soul. The soul a shadow truly!--no
 such nonsense, Monsieur Bon-Bon. The soul a shadow!! ha! ha! ha!--he!
-he! he!--hu! hu! hu! Only think of a fricasséed shadow!"
+he! he!--hu! hu! hu! Only think of a fricassÃ©ed shadow!"
 
 "_Only_ think--hiccup!--of a f-r-i-c-a-s-s-e-e-d s-h-a-d-ow!!" echoed
 our hero, whose faculties were becoming gloriously illuminated by the
@@ -5340,11 +5316,11 @@ a--hiccup!--nincompoop! _My_ soul, Mr.--humph!"
 
 "Ha!"
 
-"Souflée."
+"SouflÃ©e."
 
 "Eh?"
 
-"Fricassée."
+"FricassÃ©e."
 
 "Indeed!"
 
@@ -5622,7 +5598,7 @@ in Greek literature under the name of Tenos Concoleros?
 EXTRACTS FROM MY MEXICAN JOURNAL.
 
 Visit to Tescuco--Bath of Tescusingo--Otumba--Aqueduct of
-Zempoala--Agave Americana--Pyramids of Teotihuacán.
+Zempoala--Agave Americana--Pyramids of TeotihuacÃ¡n.
 
 
 DECEMBER 25, 1825. Mr. P. and myself left Mexico at half past nine
@@ -5856,7 +5832,7 @@ plain which surrounds them.
 
 [Footnote 2: _Cupressus disticha_. The largest tree known of this
 description is at the village of Atlixco, in the state of Puebla. It
-is in circumference 23.3 metres, or 76½ English feet.--_Humb. New
+is in circumference 23.3 metres, or 76Â½ English feet.--_Humb. New
 Spain_, _l. 3. c. 8, p. 154. Ed. of 1827_.]
 
 We employed the afternoon in revisiting the antiquities of _Tescuco_.
@@ -5895,7 +5871,7 @@ Beyond the village of _San Pedro_, we ascended the _tepetate_[3]
 lomes--_lomas_--of the eastern side of the plain of Mexico, upon which
 soil the roads are always worn deep and rough. On arriving at the
 summit of a low ridge which we were crossing, the Pyramids of
-Teotihuacán unexpectedly presented themselves to our view. Though
+TeotihuacÃ¡n unexpectedly presented themselves to our view. Though
 ignorant that we were so near to them, yet we could not mistake them,
 their figure is still so well preserved, whilst centuries have rolled
 away since their construction.
@@ -5905,7 +5881,7 @@ devoid of vegetation, and very painful to the eyes under a burning
 sun. The _lomas_ are the rising ground between the plains and the
 mountains.]
 
-Leaving the pyramids and village of San Juan de Teotihuacán to our
+Leaving the pyramids and village of San Juan de TeotihuacÃ¡n to our
 left, we travelled on two leagues farther to _Otumba_, where we
 arrived at three o'clock, having been six hours on the road from
 _Tescuco_. We were told the distance was only seven leagues. It is
@@ -5950,11 +5926,11 @@ places. At length, we effected a compromise, and were carried to
 search a _corral_ or cattle yard for the capital of the column. We
 looked in vain in yard and stable, notwithstanding one present assured
 us he had seen it. We abandoned the pursuit of the evanescent block,
-and were conducted by an old man (who was called Cortés, and who
+and were conducted by an old man (who was called CortÃ©s, and who
 affected to be of pure Indian blood, and to despise all others who
 were not,) to his house, in a corner of which was worked a carved
 stone--evidently an antique, but it was a work posterior to the
-conquest, for it represented an armed man on horseback. Cortés then
+conquest, for it represented an armed man on horseback. CortÃ©s then
 carried us to the rear of the church, to see another carved stone, but
 it was placed so high in the wall that we could scarcely distinguish
 it, but enough appeared to convince us that it bore the arms of Spain.
@@ -6014,9 +5990,9 @@ surmounting the greatest difficulties." The time taken to execute this
 work was 16 or 17 years, five of which were consumed on the principal
 arches; "which," our author says, "may be regarded as one of the
 wonders of the world." According to his statement, there are
-sixty-seven arches (we counted sixty-eight) extending 1059½
-_varas_--about 975 yards. The middle arch is 42½ _varas_, about 118
-feet high--and 23½ _varas_, about 21½ yards wide, "which fills with
+sixty-seven arches (we counted sixty-eight) extending 1059Â½
+_varas_--about 975 yards. The middle arch is 42Â½ _varas_, about 118
+feet high--and 23Â½ _varas_, about 21Â½ yards wide, "which fills with
 astonishment and wonder those who see so marvellous a work." There are
 two other ravines, one crossed by thirteen the other by forty-six
 arches. The entire length of the aqueduct was 160,496 Spanish
@@ -6130,7 +6106,7 @@ _Toluca_.
 
 The large pyramid of _Teotihuacan_ is called _Tonatiuh Ytzaqual_, or
 House of the Sun. According to _Oteyza's_ measurements[6] its base is
-208 metres--682½ English feet--its perpendicular height is 55
+208 metres--682Â½ English feet--its perpendicular height is 55
 metres--180.4 feet. The base of the other pyramid is much less than
 that of the former. This is called _Mextli Ytzaqual_, or House of the
 Moon: its height is 144.4 feet.
@@ -6264,7 +6240,7 @@ BY EDGAR A. POE.
   Silence and Desolation! and dim Night!
   Gaunt vestibules! and phantom-peopled aisles!
   I feel ye now: I feel ye in your strength!
-  O spells more sure than e'er Judæan king
+  O spells more sure than e'er JudÃ¦an king
   Taught in the gardens of Gethsemane!
   O charms more potent than the rapt Chaldee
   Ever drew down from out the quiet stars!
@@ -6274,7 +6250,7 @@ BY EDGAR A. POE.
   A midnight vigil holds the swarthy bat:
   Here, where the dames of Rome their yellow hair
   Wav'd to the wind, now wave the reed and thistle:
-  Here, where on ivory couch the Cæsar sate,
+  Here, where on ivory couch the CÃ¦sar sate,
   On bed of moss lies gloating the foul adder:
   Here, where on golden throne the monarch loll'd,
   Glides spectre-like unto his marble home,
@@ -6577,11 +6553,11 @@ nuisance can be prevented? You are fertile in schemes, Cleaveland;
 cannot you contrive some plan, if not to stop the issue of these
 libels, to revenge the insult offered to our friend?"
 
-"Not I indeed, unless we hire _Felix Sans Pitié_[1] to thump the
+"Not I indeed, unless we hire _Felix Sans PitiÃ©_[1] to thump the
 artist, or get _Piquet_,[2] the retired bully, to break his right
 arm."
 
-[Footnote 1: There was a family of _Sans Pitiés_, belong to a
+[Footnote 1: There was a family of _Sans PitiÃ©s_, belong to a
 neighboring seignory, celebrated for their muscular frames and
 pugilistic powers. They were _Voyageurs_ in the service of the North
 West, or Hudson's Bay Companies, at the time when those associations
@@ -6591,7 +6567,7 @@ the _voyageurs_ of these companies had their rendezvous in Montreal
 for a day or two, during which they were generally intoxicated, and
 scarcely an hour passed that was not distinguished by a pugilistic
 combat in the old market place, which was their peculiar haunt. The
-_Sans Pitiés_ when present were the champions, and challenged all
+_Sans PitiÃ©s_ when present were the champions, and challenged all
 comers with nearly uniform success. I have never seen more magnificent
 forms than these brothers displayed, when stripped for a fight. Their
 chests and shoulders would have been fine models for a Hercules, so
@@ -6603,14 +6579,14 @@ youthful gladiator referred to in the text, was triumphant over a
 skilful pupil of Crib. It is worthy of remark, that the English bully,
 when completely _sewed up_, (to use a phrase of the prize ring)
 declared in a faint voice, that he had been beaten contrary to all
-rule, and that _Sans Pitié_ knew no more about boxing than a horse.
+rule, and that _Sans PitiÃ©_ knew no more about boxing than a horse.
 But the Canadian champion was once well beaten by an antagonist as
 little skilled as himself in the arts and mysteries of the Five's
 Court. I was witness to this conflict between him and an English
 sailor, not half his weight. The Jack-tar completely overcame his
 Herculean opponent, when it seemed to me that had his frame been made
 of any material softer than iron, he must have been demolished by
-_Sans Pitié's_ blows.]
+_Sans PitiÃ©'s_ blows.]
 
 [Footnote 2: Monsieur _Piquet_ was about this time a member of the
 Provincial Parliament. How he got there I do not exactly know: the
@@ -6658,7 +6634,7 @@ of hair was applying to his head.
 
 As we moved away, I vowed that I would be revenged on the malicious
 barber--that he at least should not escape. A few moments brought us
-to my lodgings in the _Vieux Marché_. We sat down by a hot stove, and
+to my lodgings in the _Vieux MarchÃ©_. We sat down by a hot stove, and
 after having listened to Cleaveland's description of the last party at
 Madame Feronnier's, without hearing one word, I broke silence.
 
@@ -6690,7 +6666,7 @@ it seems you are about to
   On the unsteadfast footing of a spear.'
 
 But be it what it may, propose to me any reasonable mischief, and _je
-suis à vous_."
+suis Ã  vous_."
 
 "It is nothing very dangerous in the performance, and the consequences
 must take care of themselves. I only intend to smash, and that
@@ -6725,7 +6701,7 @@ Master Timothy that we have not played at cricket, or run foot races
 on the wind-mill common for nothing."
 
 "But what missiles shall we use?--have you thought of that, _Mon
-Général_?"
+GÃ©nÃ©ral_?"
 
 "What can be better than these?" said I, taking up a couple of billets
 of oak from the stove-pan.
@@ -6999,20 +6975,20 @@ admired:--the sin, however, was involuntary.
 
 Lib. 1. Ode v. AD PYRRHAM.
 
-  Quis multâ gracilis te puer in rosâ
+  Quis multÃ¢ gracilis te puer in rosÃ¢
   Perfusus liquidis urget odoribus
     Grato, Pyrrha, sub antro?
       Cui flavam religas comam,
   Simplex munditiis? heu! quoties fidem,
   Mutatosque Deos flebit, et aspera
-    Nigris æquora ventis
+    Nigris Ã¦quora ventis
       Emirabitur insolens,
-  Qui nunc te fruitur credulus aureâ:
+  Qui nunc te fruitur credulus aureÃ¢:
   Qui semper vacuam, semper amabilem
-    Sperat, nescius auræ
+    Sperat, nescius aurÃ¦
       Fallacis! miseri, quibus
-  Intenta nites. Me tabulâ sacer
-  Votivâ paries indicat uvida
+  Intenta nites. Me tabulÃ¢ sacer
+  VotivÃ¢ paries indicat uvida
     Suspendisse potenti
       Vestimenta maris Deo.
 
@@ -7059,15 +7035,15 @@ Translation.
 
 Lib. 1. Ode xxxv. AD FORTUNAM.
 
-  O Diva, gratum quæ regis Antium,
-  Præsens vel imo tollere de gradu
+  O Diva, gratum quÃ¦ regis Antium,
+  PrÃ¦sens vel imo tollere de gradu
     Mortale corpus, vel superbos
       Vertere funeribus triumphos:
-  Te pauper ambit solicitâ prece
-  Ruris colonus; te dominam æquoris,
-    Quicunque Bithynâ lacessit
-      Carpathium pelagus carinâ.
-  Te Dacus asper, te profugi Scythæ,
+  Te pauper ambit solicitÃ¢ prece
+  Ruris colonus; te dominam Ã¦quoris,
+    Quicunque BithynÃ¢ lacessit
+      Carpathium pelagus carinÃ¢.
+  Te Dacus asper, te profugi ScythÃ¦,
   Urbesque, gentesque, et Latium ferox,
     Regumque matres barbarorum, et
       Purpurei metuunt tyranni,
@@ -7075,28 +7051,28 @@ Lib. 1. Ode xxxv. AD FORTUNAM.
   Stantem columnam; neu populos frequens
     Ad arma cessantes ad arma
       Concitet, imperiumque frangat.
-  Te semper anteit sæva Necessitas,
+  Te semper anteit sÃ¦va Necessitas,
   Clavos trabales et cuneos manu
-    Gestans ahenâ; nec severus
+    Gestans ahenÃ¢; nec severus
       Uncus abest, liquidumque plumbum.
   Te Spes, et albo rara Fides colit
   Velata panno, nec comitem abnegat,
-    Utcunque mutatâ potentes
+    Utcunque mutatÃ¢ potentes
       Veste domos inimica linquis.
   At vulgus infidum, et meretrix retro
   Perjura cedit: diffugiunt cadis
-    Cum fæce siccatis amici,
+    Cum fÃ¦ce siccatis amici,
       Ferre jugum pariter dolosi.
-  Serves iturum Cæsarem in ultimos
+  Serves iturum CÃ¦sarem in ultimos
   Orbis Britannos, et juvenum recens
     Examen Eois timendum
       Partibus, Oceanoque Rubro.
   Eheu! cicatricum et sceleris pudet,
   Fratrumque: quid nos dura refugimus
-    Ætas? quid intactum nefasti
+    Ã†tas? quid intactum nefasti
       Liquimus? unde manum juventus
   Metu Deorum continuit? quibus
-  Pepercit aris? O! utinam novâ
+  Pepercit aris? O! utinam novÃ¢
     Incude diffingas retusum in
       Massagetas Arabasque ferrum.
 
@@ -7131,7 +7107,7 @@ Translation. TO FORTUNE.
   Friends too skulk off, the casks drained dry, unseen:
     Too treacherous equally to brook
       Adversity's hard yoke.
-  Guard Cæsar bound 'gainst Britain's distant land,
+  Guard CÃ¦sar bound 'gainst Britain's distant land,
   Limit of earth--preserve the new-formed band
     Of Youths, by Eastern realms to be
       Feared, and by the Red Sea!
@@ -7151,18 +7127,18 @@ Lib. 3. Ode iii.
   Justum, et tenacem propositi virum
   Non civium ardor prava jubentium,
     Non vultus instantis tyranni
-      Mente quatit solidâ, neque Auster,
-  Dux inquieti turbidus Adriæ,
+      Mente quatit solidÃ¢, neque Auster,
+  Dux inquieti turbidus AdriÃ¦,
   Nec fulminantis magna Jovis manus:
     Si fractus illabatur orbis,
-      Impavidum ferient ruinæ.
-  Hâc arte Pollux, et vagus Hercules
+      Impavidum ferient ruinÃ¦.
+  HÃ¢c arte Pollux, et vagus Hercules
   Innixus, arces attigit igneas:
     Quos inter Augustus recumbens
       Purpureo bibit ore nectar.
-  Hâc te merentem, Bacche pater, tuæ
-  Vexêre tigres, indocili jugum
-    Collo trahentes: hâc Quirinus
+  HÃ¢c te merentem, Bacche pater, tuÃ¦
+  VexÃªre tigres, indocili jugum
+    Collo trahentes: hÃ¢c Quirinus
       Martis equis Acheronta fugit.
 
 Translation.
@@ -7177,7 +7153,7 @@ Translation.
     The wreck would strike him undismayed.
   Pollux, and wandering Hercules, sustained
   By arts like these, the starry summits gained,
-    Mid whom reclining Cæsar sips
+    Mid whom reclining CÃ¦sar sips
     Rich nectar with empurpled lips;
   Thee, Bacchus, thus deserving virtue's prize
   With yoke on neck indocile to the skies
@@ -7191,41 +7167,41 @@ Translation.
 Lib. 2. Ode xvi. AD GROSPHUM.
 
   Otium Divos rogat in patenti
-  Prensus Ægoeo, simul atra nubes
+  Prensus Ã†goeo, simul atra nubes
   Condidit Lunam, neque certa fulgent
         Sidera nautis;
   Otium bello furiosa Thrace,
-  Otium Medi pharetrâ decori,
+  Otium Medi pharetrÃ¢ decori,
   Grosphe, non gemmis, neque purpura ve-
         nale, nec auro.
-  Non enim gazæ, neque consularis
+  Non enim gazÃ¦, neque consularis
   Summovet lictor miseros tumultus
   Mentis, et curas laqueata circum
         Tecta volantes.
   Vivitur parvo bene, cui paternum
-  Splendet in mensâ tenui salinum;
+  Splendet in mensÃ¢ tenui salinum;
   Nec leves somnos timor aut Cupido
         Sordidus aufert.
   Quid brevi fortes jaculamur oevo
   Multa? quid terras alio calentes
-  Sole mutamus? patriæ quis exul
+  Sole mutamus? patriÃ¦ quis exul
         Se quoque fugit?
-  Scandit æratas vitiosa naves
+  Scandit Ã¦ratas vitiosa naves
   Cura; nec turmas equitum relinquit,
   Ocior cervis, et agente nimbos
         Ocior Euro.
-  Loetus in præsens animus, quod ultra est
+  Loetus in prÃ¦sens animus, quod ultra est
   Oderit curare, et amara lento
   Temperet risu. Nihil est ab omni
         Parte beatum.
   Abstulit clarum cita mors Achillem:
   Longa Tithonum minuit senectus:
-  Et mihi forsan, tibi quod negârit,
+  Et mihi forsan, tibi quod negÃ¢rit,
         Porriget hora.
-  Te greges centum, Siculæque circum
+  Te greges centum, SiculÃ¦que circum
   Mugiunt vaccoe; tibi tollit hinnitum
   Apta quadrigis equa: te bis Afro
-        Murice tinctæ
+        Murice tinctÃ¦
   Vestiunt lanoe: mihi parva rura, et
   Spiritum Graioe tenuem Camenoe
   Parca non mendax dedit, et malignum
@@ -7234,7 +7210,7 @@ Lib. 2. Ode xvi. AD GROSPHUM.
 Translation. TO GROSPHUS.
 
   For ease, to Heaven the seaman prays,
-  Caught in the wide Ægean seas
+  Caught in the wide Ã†gean seas
     When black clouds wrap the sky,
   Nor moon nor well known star to guide
   His barque along the treacherous tide,
@@ -7464,7 +7440,7 @@ Neapolitan artist of great eminence. The risk attending the
 publication of so valuable a book, will operate to deter any American
 bookseller from attempting it.
 
-The new number of Lardner's Cyclopædia is _A History of Greece, vol.
+The new number of Lardner's CyclopÃ¦dia is _A History of Greece, vol.
 1, by the Rev. C. Thirwall, M.A., Fellow of Trinity College,
 Cambridge_. There will be three volumes of it. Alas, for our old and
 valued friend, Oliver Goldsmith! The book is said to be faithful--but
@@ -7492,7 +7468,7 @@ favor. Singular discrepancies are said to have been discovered in his
 last volume, between his map and his text.
 
 _Sketches of American Literature_, by Flint, are in course of
-publication in the London Athenæum. They are not very highly spoken
+publication in the London AthenÃ¦um. They are not very highly spoken
 of--being called abstruse and dull.
 
 The finest edition ever yet published of Milton's Paradise Lost, is
@@ -7654,363 +7630,4 @@ matter.
 End of the Project Gutenberg EBook of The Southern Literary Messenger, Vol.
 I., No. 12, August, 1835, by Various
 
-*** END OF THIS PROJECT GUTENBERG EBOOK SOUTHERN LITERARY MESSENGER, AUGUST 1835 ***
-
-***** This file should be named 58729-8.txt or 58729-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/7/2/58729/
-
-Produced by Ron Swanson
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58729 ***
